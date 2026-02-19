@@ -1,5 +1,5 @@
 body {
-  font-family: Arial, sans-sarif:
+  font-family: Arial, sans-sarif;
   color:#333;
   background-color: #f9f9f9;
   margin: 0;
@@ -8,7 +8,7 @@ body {
 }
 
 header {
-  background-color:#4CAF50;
+  background-color: #4CAF50;
   color: white;
   padding: 20px;
   text-align: center;
@@ -22,14 +22,14 @@ header h1 {
 nav a {
   color: white;
   text-decoration: none;
-  margin: 0 10px:
+  margin: 0 10px;
 }
 
 nav a:hover {
     text-decoration: underline;
 }
 main {
-  padding; 20px;
+  padding: 20px;
   max-width: 800px;
   margin: 0 auto;
 }
@@ -48,7 +48,7 @@ footer {
   padding: 10px;
   position: fixed;
   bottom: 0;
-  width: 100%
+  width: 100%;
 }
 p {
   font-size: 1.1em;
@@ -68,4 +68,3 @@ main a[href^="mailto:"] {
   color: #ff5722;
   font-weight: bold;
 }
-S
